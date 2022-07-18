@@ -1,2 +1,2 @@
 # GeoGeo
-このアプリはgeometryreaderを活用したTimerアプリです。STARTボタンを押すと音楽が鳴ります。
+このアプリはgeometryreaderを活用したTimerアプリです。
