@@ -1,2 +1,2 @@
 # GeoGeo
-このアプリはgeometryreaderを活用したTimerアプリです。
+このアプリはgeometryreaderを活用したアプリです。
